@@ -1,0 +1,23 @@
+[
+  {
+    "genre": "Horor",
+    "judul": "Horor 1",
+    "jamTayang": "14.00",
+    "studio": "Studio 1 2",
+    "tayang": true
+  },
+  {
+    "genre": "Horor",
+    "judul": "Horor 2",
+    "jamTayang": "16.00",
+    "studio": "Studio 2",
+    "tayang": true
+  },
+  {
+    "genre": "12",
+    "judul": "12",
+    "jamTayang": "12",
+    "studio": "12",
+    "tayang": true
+  }
+]

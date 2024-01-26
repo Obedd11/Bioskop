@@ -1,0 +1,38 @@
+[
+  {
+    "filmEntity": {
+      "genre": "Horor",
+      "judul": "Horor 2",
+      "jamTayang": "16.00",
+      "studio": "Studio 2",
+      "tayang": true
+    },
+    "userEntity": {
+      "username": "user1"
+    }
+  },
+  {
+    "filmEntity": {
+      "genre": "Horor",
+      "judul": "Horor 2",
+      "jamTayang": "16.00",
+      "studio": "Studio 2",
+      "tayang": true
+    },
+    "userEntity": {
+      "username": "user2"
+    }
+  },
+  {
+    "filmEntity": {
+      "genre": "12",
+      "judul": "12",
+      "jamTayang": "12",
+      "studio": "12",
+      "tayang": true
+    },
+    "userEntity": {
+      "username": "user2"
+    }
+  }
+]
